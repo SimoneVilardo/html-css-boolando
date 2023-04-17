@@ -124,6 +124,10 @@
     left: 0;
     display: none;
 }
+
+.heart:hover{
+    color: red;
+}
 /* FINE SEZIONE HOVER */
 
 /* FINE MAIN */
